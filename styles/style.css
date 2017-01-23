@@ -1,0 +1,46 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+
+body {
+	background-color:#eeeeee;
+	font-size: 14px;
+	font-color: #000000;
+}
+
+#wrapper {
+	width:1000px;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+#header {
+	background-color:#aaaaaa;
+	width:100%;
+	margin-bottom: 10px;
+}
+
+#logo {
+	text-shadow: 1px 1px 1px #000000;
+	color: #ffffff;
+	font-size: 36px;
+	margin: 10px 0px 0px 10px;
+}
+
+.post{
+	background-color:white;
+	padding: 5px;
+	border: 1px solid #bbbbbb;
+	margin-bottom: 5px;
+}
+.post .text {
+	margin-bottom: 10px;
+}
+.post h1 {
+	margin-bottom: 5px;
+}
+
+ .date {
+ 	font-size: 11px;
+ }
